@@ -1,10 +1,10 @@
-### BBKSDA Papua Barat Daya 🇮🇩🦜
+### Balai Besar Konservasi Sumber Daya Alam Papua Barat Daya
 
-**Tech for Nature | Conservation 2.0**
+**Tech for Nature | Conservation**
 
 Yo! Welcome to our codebase. 🚀
 
-Kita adalah unit di bawah KLHK yang lagi _shifting_ paradigma konservasi di Papua Barat Daya biar makin _agile_ dan modern. Jujurly, njagain alam itu berat, makanya kita butuh _support system_ berupa teknologi yang _robust_.
+Kita adalah unit di bawah Kementerian Kehutanan Republik Indonesia yang lagi _shifting_ paradigma konservasi di Papua Barat Daya biar makin _agile_ dan modern. Jujurly, njagain alam itu berat, makanya kita butuh _support system_ berupa teknologi yang _robust_.
 
 **🧐 What's in this repo?**
 Kita lagi _deep dive_ buat develop _tools_ yang bisa ngebantu:
