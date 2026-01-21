@@ -4,7 +4,7 @@
 
 Yo! Welcome to our codebase. 🚀
 
-Kita adalah unit di bawah Kementerian Kehutanan Republik Indonesia yang lagi _shifting_ paradigma konservasi di Papua Barat Daya biar makin _agile_ dan modern. Jujurly, njagain alam itu berat, makanya kita butuh _support system_ berupa teknologi yang _robust_.
+Kita adalah unit di bawah Kementerian Kehutanan Republik Indonesia yang lagi _shifting_ paradigma konservasi di Papua Barat Daya biar makin _agile_ dan modern. Jujurly, menjaga alam itu berat, makanya kita butuh _support system_ berupa teknologi yang _robust_.
 
 **🧐 What's in this repo?**
 Kita lagi _deep dive_ buat develop _tools_ yang bisa ngebantu:
