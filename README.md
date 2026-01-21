@@ -4,7 +4,7 @@
 
 Yo! Welcome to our codebase. 🚀
 
-Welcome to the official repository of **Balai Besar Konservasi Sumber Daya Alam Papua Barat Daya**. Di sini, kita lagi _orchestrating_ sinergi antara teknologi dan konservasi alam. _Goal_ utamanya simpel: _Sustainability_ yang didukung sama data-driven decisions.
+Welcome to the official GitHub of **Balai Besar Konservasi Sumber Daya Alam Papua Barat Daya**. Di sini, kita lagi _orchestrating_ sinergi antara teknologi dan konservasi alam. _Goal_ utamanya simpel: _Sustainability_ yang didukung sama data-driven decisions.
 
 Kita adalah unit di bawah Kementerian Kehutanan Republik Indonesia yang lagi _shifting_ paradigma konservasi di Papua Barat Daya biar makin _agile_ dan modern. Jujurly, menjaga alam itu berat, makanya kita butuh _support system_ berupa teknologi yang _robust_.
 
